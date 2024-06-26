@@ -1,0 +1,12 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot2,"Пахом Коновалов",hard,4,Completed,"The Survivalist Path - Thrifty","Zone huntsman_005_1","2","16:22:46","16:28:02",
+Bot2,"Пахом Коновалов",hard,4,Completed,"The Survivalist Path - Thrifty","Zone huntsman_005_2","2","16:28:07","16:35:23",
+Bot2,"Пахом Коновалов",hard,4,Completed,"USEC Camp South","USEC Camp South: Objective #2","1","16:35:29","16:37:33",
+Bot2,"Пахом Коновалов",hard,4,Completed,"USEC Camp South","USEC Camp South: Objective #3","4","16:37:39","16:38:39",
+Bot2,"Пахом Коновалов",hard,4,Completed,"USEC Camp South","USEC Camp South: Objective #1","2","16:38:44","16:39:22",
+Bot3,"Казимир Пищальников",hard,21,Failed,"Steady Signal","Zone q14_8_3","1","16:22:46","16:25:19",
+Bot22,"Осип Аленин",hard,4,Pending,"Introduction","Zone huntsman_001","1","16:33:04","N/A",
+Bot23,"Антон Пичугин",hard,7,Pending,"Introduction","Zone huntsman_001","1","16:33:04","N/A",
+Bot24,"Корней Панкин",hard,22,Pending,"Supply Plans","Item Secure Folder 0052","1","16:33:04","N/A",
+Bot21,"Филимон Сеченов",hard,36,Failed,"Assessment - Part 2","Zone meh_45_radio_area_mark_3","1","16:33:04","16:38:52",
+Bot21,"Филимон Сеченов",hard,36,Active,"Assessment - Part 2","Zone meh_45_radio_area_mark_2","1","16:38:57","N/A",

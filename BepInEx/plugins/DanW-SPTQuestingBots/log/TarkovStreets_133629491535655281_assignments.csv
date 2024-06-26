@@ -1,0 +1,6 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot11,"Вадик Тамада (Norris)",normal,1,Active,"Nikitskaya 6","Nikitskaya 6: Objective #7","1","19:18:28","N/A",
+Bot12,"Gerardo Hauser",hard,7,Active,"Lexos Offices","Lexos Offices: Objective #1","1","19:18:31","N/A",
+Bot13,"Tuan Neer",hard,12,Pending,"Checkannaya 15","Checkannaya 15: Objective #3","1","19:18:32","N/A",
+Bot14,"Hiram Heitmann",hard,16,Failed,"Lexos Director's Office","Lexos Director's Office: Objective #4","1","19:18:32","19:18:37",
+Bot14,"Hiram Heitmann",hard,16,Failed,"Lexos Director's Office","Lexos Director's Office: Objective #2","1","19:18:42","19:18:59",

@@ -1,0 +1,13 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot5,"Kraig Devera",hard,18,Pending,"Scav Town Sniping","Scav Town Sniping: Objective #3","1","19:12:00","N/A",
+Bot2,"Freeman Sam",hard,10,Completed,"The Survivalist Path - Thrifty","Zone huntsman_005_1","2","19:12:00","19:12:50",
+Bot2,"Freeman Sam",hard,10,Active,"The Survivalist Path - Thrifty","Zone huntsman_005_2","1","19:12:55","N/A",
+Bot3,"Andy Liggett",hard,19,Pending,"Steady Signal","Zone q14_8_5","1","19:12:00","N/A",
+Bot4,"Merlin Wesolowski",hard,20,Pending,"Old Sawmill","Old Sawmill: Objective #1","1","19:12:00","N/A",
+Bot6,"Nathanial Mccollough",hard,32,Pending,"The Blood of War - Part 3","Zone bar_fuel3_2","1","19:12:01","N/A",
+Bot14,"Kendall Parke",hard,12,Pending,"Old Sawmill","Old Sawmill: Objective #1","1","19:12:46","N/A",
+Bot15,"Latyn Wee",hard,27,Pending,"The Cult - Part 2","Zone place_peacemaker_007_2_N2_1","1","19:12:46","N/A",
+Bot16,"Salvador Mena",hard,29,Pending,"Lend-Lease - Part 1","Item Single-axis Fiber Optic Gyroscope #1","1","19:12:46","N/A",
+Bot13,"Rory Hug",hard,16,Completed,"Steady Signal","Zone q14_8_3","1","19:12:46","19:13:12",
+Bot13,"Rory Hug",hard,16,Completed,"Steady Signal","Zone q14_8_2","1","19:13:17","19:14:57",
+Bot13,"Rory Hug",hard,16,Active,"Steady Signal","Zone q14_8_5","1","19:15:02","N/A",

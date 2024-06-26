@@ -1,0 +1,9 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot212,"Кондратий Баландин",hard,25,Failed,"Farming - Part 1","Zone place_SADOVOD_01_1","1","17:00:15","17:01:23",
+Bot213,"Артур Кашуба",hard,16,Failed,"Bad Rep Evidence","Zone locked_office","1","17:00:16","17:01:27",
+Bot213,"Артур Кашуба",hard,16,Failed,"Chemical - Part 3","Item Syringe with a chemical","1","17:01:32","17:02:27",
+Bot216,"Виктор Ивашин",hard,21,Active,"Scout","Zone place_pacemaker_SCOUT_03","1","17:00:20","N/A",
+Bot217,"Корнил Пастух",hard,8,Failed,"Crates Outside of Stairwell","Crates Outside of Stairwell: Objective #1","1","17:00:21","17:00:34",
+Bot218,"Роман Пахомов",hard,24,Pending,"Scout","Zone place_pacemaker_SCOUT_03","1","17:00:22","N/A",
+Bot219,"Валерий Путилин",hard,33,Failed,"Crates Outside of Stairwell","Crates Outside of Stairwell: Objective #1","1","17:00:25","17:04:19",
+Bot229,"Grant Dahlgren",hard,20,Failed,"Scout","Zone place_pacemaker_SCOUT_02","1","17:03:34","17:04:52",

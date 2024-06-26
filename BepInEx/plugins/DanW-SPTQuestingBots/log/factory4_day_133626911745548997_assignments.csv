@@ -1,0 +1,11 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot137,"Modesto Cover",hard,22,Failed,"Spawn Rush","Spawn Rush: Objective #1","1","19:26:52","19:28:12",
+Bot138,"Sonny Allums",hard,27,Failed,"Chemical - Part 3","Item Syringe with a chemical","1","19:26:53","19:26:53",
+Bot138,"Sonny Allums",hard,27,Failed,"3rd Floor Bridge","3rd Floor Bridge: Objective #1","1","19:26:58","19:28:10",
+Bot139,"Demarcus Nagao",hard,21,Failed,"Farming - Part 1","Zone place_SADOVOD_01_2","1","19:26:54","19:28:22",
+Bot140,"John Finck",hard,25,Failed,"Scout","Zone place_pacemaker_SCOUT_01","1","19:26:55","19:27:01",
+Bot141,"Oscar Vowell",hard,6,Failed,"Sanitary Standards - Part 1","Zone pumproom","1","19:26:56","19:36:15",
+Bot142,"Otto Burkhardt",hard,23,Failed,"Scout","Zone place_pacemaker_SCOUT_01","1","19:26:57","19:29:21",
+Bot155,"Lamont Alamo",hard,13,Pending,"Scout","Zone place_pacemaker_SCOUT_02","1","19:36:10","N/A",
+Bot155,"Lamont Alamo",hard,13,Pending,"Scout","Zone place_pacemaker_SCOUT_03","1","19:37:17","N/A",
+Bot155,"Lamont Alamo",hard,13,Active,"Scout","Zone place_pacemaker_SCOUT_04","1","19:37:37","N/A",
